@@ -39,12 +39,3 @@
 **Tools:** Docker, Git, GitHub Actions, REST APIs, WebSockets
 
 ---
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=david-galdamez&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-galdamez&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=david-galdamez&hide_border=true" />
-</p>
